@@ -8,5 +8,9 @@ namespace ConsoleApplication
 {
     class Fraction
     {
+        private double a;
+        private double b { get; set; }
+
+        
     }
 }
